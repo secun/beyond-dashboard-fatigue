@@ -1,12 +1,12 @@
 ## Beyond Dashboard Fatigue
 
-This repository contains supporting code for the July 14, 2020 RStudio webinar. Once available, the webinar recording can be found on https://resources.rstudio.com.
+This repository was forked from supporting code for the July 14, 2020 RStudio webinar. 
 
+## Why Dashboard Fatigue
 Dashboards are *great* but sometimes people need the right information, at the right place, at the right time. 
 
-Let's face it, data science teams face a challenging task. Not only do they have to gain insight from data, they also have to persuade others to make decisions based on those insights. To close this gap, teams rely on tools like dashboards, apps, and APIs. But unfortunately data organizations can suffer from their own success - how many of those dashboards are viewed once and forgotten? Is a dashboard of dashboards really the right solution? And what about that pesky, precisely formatted Excel spreadsheet that Finance still wants every week?
-
-The webinar, entitled *Beyond Dashboard Fatigue*, presents an easy way teams can solve these problems using proactive email notifications through the **blastula** and **gt** packages. On top of that, **RStudio** pro products can be used to scale out those solutions for enterprise applications. Dynamic emails are a powerful way to meet decision makers where they live - their inbox - while displaying exactly the results needed to influence decision-making. Best of all, these notifications are crafted with code, ensuring your work is still reproducible, durable, and credible.
+Teams rely on tools like dashboards, apps, and APIs. But unfortunately data organizations can suffer from their own success - how many of those dashboards are viewed once and forgotten? Is a dashboard of dashboards really the right solution? And what about that pesky, precisely formatted Excel spreadsheet that Finance still wants every week?
+solution might be to use proactive email notifications through the **blastula** and **gt** packages. On top of that, **RStudio** pro products can be used to scale out those solutions for enterprise applications. Dynamic emails are a powerful way to meet decision makers where they live - their inbox - while displaying exactly the results needed to influence decision-making. Best of all, these notifications are crafted with code, ensuring your work is still reproducible, durable, and credible.
 
 We’ll demonstrate how this approach provides solutions for data quality monitoring, detecting and alerting on anomalies, and can even automate routine (but precisely formatted) KPI reporting.
 
