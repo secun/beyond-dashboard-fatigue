@@ -1,6 +1,7 @@
 ## Beyond Dashboard Fatigue
 
 This repository was forked from supporting code for the July 14, 2020 RStudio webinar. 
+Done by Secundino Sexto
 
 ## Why Dashboard Fatigue
 Dashboards are *great* but sometimes people need the right information, at the right place, at the right time. 
